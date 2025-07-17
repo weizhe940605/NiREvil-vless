@@ -1,306 +1,306 @@
 {
     "ipv4": [
         {
-            "colo": "SJC",
-            "ip": "141.101.121.80",
-            "latency": 54,
+            "colo": "Default",
+            "ip": "162.159.244.250",
+            "latency": 198,
+            "line": "CM",
+            "loss": 0,
+            "node": "51C_SDCM",
+            "speed": 750,
+            "time": "2025-07-17 04:01:22"
+        },
+        {
+            "colo": "Default",
+            "ip": "172.67.61.10",
+            "latency": 199,
+            "line": "CM",
+            "loss": 0,
+            "node": "51C_SDCM",
+            "speed": 665,
+            "time": "2025-07-17 04:11:16"
+        },
+        {
+            "colo": "HKG",
+            "ip": "172.67.138.46",
+            "latency": 52,
             "line": "CM",
             "loss": 0,
             "node": "CDCM",
-            "speed": 310,
-            "time": "2025-07-16 23:26:13"
-        },
-        {
-            "colo": "LAX",
-            "ip": "172.64.67.30",
-            "latency": 55,
-            "line": "CM",
-            "loss": 0,
-            "node": "CDCM",
-            "speed": 300,
-            "time": "2025-07-16 23:26:19"
-        },
-        {
-            "colo": "LAX",
-            "ip": "162.159.243.35",
-            "latency": 54,
-            "line": "CM",
-            "loss": 0,
-            "node": "CDCM",
-            "speed": 275,
-            "time": "2025-07-16 23:15:35"
-        },
-        {
-            "colo": "SJC",
-            "ip": "190.93.247.36",
-            "latency": 54,
-            "line": "CM",
-            "loss": 0,
-            "node": "CDCM",
-            "speed": 275,
-            "time": "2025-07-16 22:44:01"
-        },
-        {
-            "colo": "LAX",
-            "ip": "172.64.92.227",
-            "latency": 55,
-            "line": "CM",
-            "loss": 0,
-            "node": "CDCM",
-            "speed": 260,
-            "time": "2025-07-17 00:18:06"
-        },
-        {
-            "colo": "FRA",
-            "ip": "172.67.50.132",
-            "latency": 205,
-            "line": "CT",
-            "loss": 0,
-            "node": "SDO_HBCT",
-            "speed": 625,
-            "time": "2025-07-17 00:19:30"
-        },
-        {
-            "colo": "FRA",
-            "ip": "172.67.23.17",
-            "latency": 226,
-            "line": "CT",
-            "loss": 0,
-            "node": "SDO_HBCT",
             "speed": 265,
-            "time": "2025-07-17 00:19:33"
+            "time": "2025-07-17 04:04:19"
+        },
+        {
+            "colo": "HKG",
+            "ip": "172.67.12.42",
+            "latency": 52,
+            "line": "CM",
+            "loss": 0,
+            "node": "CDCM",
+            "speed": 265,
+            "time": "2025-07-17 04:04:13"
+        },
+        {
+            "colo": "Default",
+            "ip": "172.67.57.184",
+            "latency": 214,
+            "line": "CM",
+            "loss": 0,
+            "node": "51C_SDCM",
+            "speed": 260,
+            "time": "2025-07-17 04:11:18"
         },
         {
             "colo": "FRA",
-            "ip": "104.25.101.226",
-            "latency": 220,
+            "ip": "172.67.127.49",
+            "latency": 228,
+            "line": "CT",
+            "loss": 0,
+            "node": "SDO_HBCT",
+            "speed": 1060,
+            "time": "2025-07-17 04:19:27"
+        },
+        {
+            "colo": "FRA",
+            "ip": "172.67.124.190",
+            "latency": 233,
+            "line": "CT",
+            "loss": 0,
+            "node": "SDO_HBCT",
+            "speed": 925,
+            "time": "2025-07-17 04:19:27"
+        },
+        {
+            "colo": "FRA",
+            "ip": "172.67.93.9",
+            "latency": 232,
+            "line": "CT",
+            "loss": 0,
+            "node": "SDO_HBCTW",
+            "speed": 665,
+            "time": "2025-07-17 04:14:27"
+        },
+        {
+            "colo": "SJC",
+            "ip": "190.93.246.236",
+            "latency": 159,
+            "line": "CT",
+            "loss": 0,
+            "node": "SDO_HBCT",
+            "speed": 560,
+            "time": "2025-07-17 04:19:28"
+        },
+        {
+            "colo": "SJC",
+            "ip": "104.16.85.203",
+            "latency": 135,
             "line": "CT",
             "loss": 0,
             "node": "QYZJBGP",
-            "speed": 245,
-            "time": "2025-07-17 00:15:59"
+            "speed": 290,
+            "time": "2025-07-17 04:15:40"
         },
         {
             "colo": "FRA",
-            "ip": "104.27.127.102",
-            "latency": 205,
-            "line": "CT",
-            "loss": 0,
-            "node": "QYZJBGP",
-            "speed": 215,
-            "time": "2025-07-17 00:15:41"
-        },
-        {
-            "colo": "FRA",
-            "ip": "104.25.241.98",
-            "latency": 192,
-            "line": "CT",
-            "loss": 0,
-            "node": "QYZJBGP",
-            "speed": 215,
-            "time": "2025-07-17 00:15:24"
-        },
-        {
-            "colo": "FRA",
-            "ip": "172.67.206.175",
+            "ip": "172.67.207.230",
             "latency": 131,
             "line": "CU",
             "loss": 0,
             "node": "KXY_BJCU",
-            "speed": 1525,
-            "time": "2025-07-17 00:21:11"
-        },
-        {
-            "colo": "FRA",
-            "ip": "172.67.195.74",
-            "latency": 132,
-            "line": "CU",
-            "loss": 0,
-            "node": "KXY_BJCU",
-            "speed": 1490,
-            "time": "2025-07-17 00:21:11"
+            "speed": 1500,
+            "time": "2025-07-17 04:01:14"
         },
         {
             "colo": "HKG",
-            "ip": "172.67.119.248",
+            "ip": "172.67.65.226",
+            "latency": 42,
+            "line": "CU",
+            "loss": 0,
+            "node": "KXY_BJCU",
+            "speed": 1450,
+            "time": "2025-07-17 04:01:14"
+        },
+        {
+            "colo": "HKG",
+            "ip": "172.67.43.152",
             "latency": 45,
             "line": "CU",
             "loss": 0,
             "node": "KXY_BJCU",
-            "speed": 325,
-            "time": "2025-07-17 00:01:15"
+            "speed": 355,
+            "time": "2025-07-17 04:11:15"
         },
         {
             "colo": "HKG",
-            "ip": "172.67.24.38",
-            "latency": 41,
+            "ip": "172.67.4.88",
+            "latency": 42,
             "line": "CU",
             "loss": 0,
             "node": "KXY_BJCU",
-            "speed": 280,
-            "time": "2025-07-17 00:11:15"
+            "speed": 295,
+            "time": "2025-07-17 04:11:15"
         },
         {
             "colo": "HKG",
-            "ip": "162.159.241.212",
+            "ip": "172.64.94.219",
             "latency": 38,
             "line": "CU",
             "loss": 0,
             "node": "KXY_BJCU",
             "speed": 260,
-            "time": "2025-07-17 00:21:15"
+            "time": "2025-07-17 04:11:15"
         }
     ],
     "ipv6": [
         {
             "colo": "Default",
-            "ip": "2606:4700:8ca0:a7bb:dff0:6427:9743:9bc8",
-            "latency": 4,
-            "line": "CM",
-            "loss": 0,
-            "node": "NETCUP",
-            "speed": 548,
-            "time": "2025-07-17 00:19:51"
-        },
-        {
-            "colo": "Default",
-            "ip": "2606:4700:9767:4688:62b4:e66d:a2b9:72f0",
-            "latency": 4,
-            "line": "CM",
-            "loss": 0,
-            "node": "NETCUP",
-            "speed": 532,
-            "time": "2025-07-17 00:19:51"
-        },
-        {
-            "colo": "Default",
-            "ip": "2606:4700:19:b9d7:5852:68fd:fb70:4809",
-            "latency": 4,
-            "line": "CM",
-            "loss": 0,
-            "node": "NETCUP",
-            "speed": 532,
-            "time": "2025-07-17 00:19:51"
-        },
-        {
-            "colo": "Default",
-            "ip": "2606:4700:90c3:2ce4:daab:9bc7:42ba:5bbb",
-            "latency": 4,
-            "line": "CM",
-            "loss": 0,
-            "node": "NETCUP",
-            "speed": 408,
-            "time": "2025-07-17 00:19:51"
-        },
-        {
-            "colo": "Default",
-            "ip": "2606:4700:8ca0:80a1:4f7e:8cf6:a78c:7b18",
+            "ip": "2606:4700:90c9:50f2:8ba7:3537:d463:c589",
             "latency": 3,
             "line": "CM",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 405,
-            "time": "2025-07-17 00:19:51"
+            "speed": 529,
+            "time": "2025-07-17 04:09:52"
         },
         {
             "colo": "Default",
-            "ip": "2606:4700:8ca0:a7bb:dff0:6427:9743:9bc8",
+            "ip": "2606:4700:133:d4c4:2e80:f67:a97b:3ef5",
             "latency": 4,
-            "line": "CT",
+            "line": "CM",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 548,
-            "time": "2025-07-17 00:19:51"
+            "speed": 439,
+            "time": "2025-07-17 04:09:51"
         },
         {
             "colo": "Default",
-            "ip": "2606:4700:9767:4688:62b4:e66d:a2b9:72f0",
+            "ip": "2606:4700:9a9d:766c:d736:ebb7:7de5:7a03",
             "latency": 4,
-            "line": "CT",
+            "line": "CM",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 532,
-            "time": "2025-07-17 00:19:51"
+            "speed": 423,
+            "time": "2025-07-17 04:09:51"
         },
         {
             "colo": "Default",
-            "ip": "2606:4700:19:b9d7:5852:68fd:fb70:4809",
-            "latency": 4,
-            "line": "CT",
+            "ip": "2606:4700:91b0:1171:720c:3384:b179:590e",
+            "latency": 3,
+            "line": "CM",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 532,
-            "time": "2025-07-17 00:19:51"
+            "speed": 411,
+            "time": "2025-07-17 04:09:51"
         },
         {
             "colo": "Default",
-            "ip": "2606:4700:90c3:2ce4:daab:9bc7:42ba:5bbb",
-            "latency": 4,
-            "line": "CT",
+            "ip": "2606:4700:9b00:32b4:e5e0:9a5f:3431:da7d",
+            "latency": 3,
+            "line": "CM",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 408,
-            "time": "2025-07-17 00:19:51"
+            "speed": 391,
+            "time": "2025-07-17 04:09:51"
         },
         {
             "colo": "Default",
-            "ip": "2606:4700:8ca0:80a1:4f7e:8cf6:a78c:7b18",
+            "ip": "2606:4700:90c9:50f2:8ba7:3537:d463:c589",
             "latency": 3,
             "line": "CT",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 405,
-            "time": "2025-07-17 00:19:51"
+            "speed": 529,
+            "time": "2025-07-17 04:09:52"
         },
         {
             "colo": "Default",
-            "ip": "2606:4700:8ca0:a7bb:dff0:6427:9743:9bc8",
+            "ip": "2606:4700:133:d4c4:2e80:f67:a97b:3ef5",
             "latency": 4,
-            "line": "CU",
+            "line": "CT",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 548,
-            "time": "2025-07-17 00:19:51"
+            "speed": 439,
+            "time": "2025-07-17 04:09:51"
         },
         {
             "colo": "Default",
-            "ip": "2606:4700:9767:4688:62b4:e66d:a2b9:72f0",
+            "ip": "2606:4700:9a9d:766c:d736:ebb7:7de5:7a03",
             "latency": 4,
-            "line": "CU",
+            "line": "CT",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 532,
-            "time": "2025-07-17 00:19:51"
+            "speed": 423,
+            "time": "2025-07-17 04:09:51"
         },
         {
             "colo": "Default",
-            "ip": "2606:4700:19:b9d7:5852:68fd:fb70:4809",
-            "latency": 4,
-            "line": "CU",
+            "ip": "2606:4700:91b0:1171:720c:3384:b179:590e",
+            "latency": 3,
+            "line": "CT",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 532,
-            "time": "2025-07-17 00:19:51"
+            "speed": 411,
+            "time": "2025-07-17 04:09:51"
         },
         {
             "colo": "Default",
-            "ip": "2606:4700:90c3:2ce4:daab:9bc7:42ba:5bbb",
-            "latency": 4,
-            "line": "CU",
+            "ip": "2606:4700:9b00:32b4:e5e0:9a5f:3431:da7d",
+            "latency": 3,
+            "line": "CT",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 408,
-            "time": "2025-07-17 00:19:51"
+            "speed": 391,
+            "time": "2025-07-17 04:09:51"
         },
         {
             "colo": "Default",
-            "ip": "2606:4700:8ca0:80a1:4f7e:8cf6:a78c:7b18",
+            "ip": "2606:4700:90c9:50f2:8ba7:3537:d463:c589",
             "latency": 3,
             "line": "CU",
             "loss": 0,
             "node": "NETCUP",
-            "speed": 405,
-            "time": "2025-07-17 00:19:51"
+            "speed": 529,
+            "time": "2025-07-17 04:09:52"
+        },
+        {
+            "colo": "Default",
+            "ip": "2606:4700:133:d4c4:2e80:f67:a97b:3ef5",
+            "latency": 4,
+            "line": "CU",
+            "loss": 0,
+            "node": "NETCUP",
+            "speed": 439,
+            "time": "2025-07-17 04:09:51"
+        },
+        {
+            "colo": "Default",
+            "ip": "2606:4700:9a9d:766c:d736:ebb7:7de5:7a03",
+            "latency": 4,
+            "line": "CU",
+            "loss": 0,
+            "node": "NETCUP",
+            "speed": 423,
+            "time": "2025-07-17 04:09:51"
+        },
+        {
+            "colo": "Default",
+            "ip": "2606:4700:91b0:1171:720c:3384:b179:590e",
+            "latency": 3,
+            "line": "CU",
+            "loss": 0,
+            "node": "NETCUP",
+            "speed": 411,
+            "time": "2025-07-17 04:09:51"
+        },
+        {
+            "colo": "Default",
+            "ip": "2606:4700:9b00:32b4:e5e0:9a5f:3431:da7d",
+            "latency": 3,
+            "line": "CU",
+            "loss": 0,
+            "node": "NETCUP",
+            "speed": 391,
+            "time": "2025-07-17 04:09:51"
         }
     ]
 }
