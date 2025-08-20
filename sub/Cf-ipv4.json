@@ -100,53 +100,53 @@
         "time": "2025-08-19 12:15:27"
     },
     {
-        "colo": "KIX",
-        "ip": "172.67.65.197",
-        "latency": 56,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 2200,
-        "time": "2025-08-19 12:11:56"
-    },
-    {
-        "colo": "FRA",
-        "ip": "172.67.212.64",
-        "latency": 133,
+        "colo": "NRT",
+        "ip": "172.67.77.93",
+        "latency": 55,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
         "speed": 1560,
-        "time": "2025-08-19 11:41:57"
-    },
-    {
-        "colo": "FRA",
-        "ip": "172.67.141.177",
-        "latency": 133,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 1525,
-        "time": "2025-08-19 12:01:57"
-    },
-    {
-        "colo": "FRA",
-        "ip": "172.67.136.10",
-        "latency": 133,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 280,
-        "time": "2025-08-19 12:02:01"
+        "time": "2025-08-19 15:51:56"
     },
     {
         "colo": "NRT",
-        "ip": "162.159.242.58",
+        "ip": "162.159.135.47",
         "latency": 56,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 260,
-        "time": "2025-08-19 12:02:00"
+        "speed": 1525,
+        "time": "2025-08-19 16:01:56"
+    },
+    {
+        "colo": "FRA",
+        "ip": "172.67.152.113",
+        "latency": 132,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 1490,
+        "time": "2025-08-19 15:51:56"
+    },
+    {
+        "colo": "NRT",
+        "ip": "173.245.49.249",
+        "latency": 56,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 340,
+        "time": "2025-08-19 16:02:00"
+    },
+    {
+        "colo": "FRA",
+        "ip": "172.67.215.149",
+        "latency": 132,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 265,
+        "time": "2025-08-19 16:02:00"
     }
 ]
