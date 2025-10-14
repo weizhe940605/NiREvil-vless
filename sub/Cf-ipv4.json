@@ -100,53 +100,53 @@
         "time": "2025-10-12 23:35:26"
     },
     {
+        "colo": "LHR",
+        "ip": "172.67.176.66",
+        "latency": 145,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 1540,
+        "time": "2025-10-13 09:13:11"
+    },
+    {
         "colo": "NRT",
-        "ip": "172.64.86.21",
+        "ip": "198.41.208.20",
         "latency": 56,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 1525,
-        "time": "2025-10-13 04:03:11"
-    },
-    {
-        "colo": "NRT",
-        "ip": "172.67.114.54",
-        "latency": 56,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 1500,
-        "time": "2025-10-13 04:13:11"
-    },
-    {
-        "colo": "NRT",
-        "ip": "162.159.244.53",
-        "latency": 55,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 310,
-        "time": "2025-10-13 04:13:15"
-    },
-    {
-        "colo": "NRT",
-        "ip": "172.67.85.172",
-        "latency": 56,
-        "line": "CU",
-        "loss": 0,
-        "node": "KXY_BJCU",
-        "speed": 310,
-        "time": "2025-10-13 04:13:14"
+        "speed": 1535,
+        "time": "2025-10-13 09:13:11"
     },
     {
         "colo": "LHR",
-        "ip": "172.67.157.65",
+        "ip": "172.67.204.126",
         "latency": 142,
         "line": "CU",
         "loss": 0,
         "node": "KXY_BJCU",
-        "speed": 280,
-        "time": "2025-10-13 03:43:15"
+        "speed": 1505,
+        "time": "2025-10-13 09:13:12"
+    },
+    {
+        "colo": "NRT",
+        "ip": "172.67.122.135",
+        "latency": 55,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 1495,
+        "time": "2025-10-13 09:03:11"
+    },
+    {
+        "colo": "LHR",
+        "ip": "172.67.209.48",
+        "latency": 145,
+        "line": "CU",
+        "loss": 0,
+        "node": "KXY_BJCU",
+        "speed": 1495,
+        "time": "2025-10-13 09:03:11"
     }
 ]
