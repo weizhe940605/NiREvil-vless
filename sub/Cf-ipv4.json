@@ -1,6 +1,26 @@
 [
     {
         "colo": "HKG",
+        "ip": "198.41.208.119",
+        "latency": 51,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 270,
+        "time": "2026-01-04 03:12:20"
+    },
+    {
+        "colo": "HKG",
+        "ip": "198.41.208.208",
+        "latency": 108,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 270,
+        "time": "2026-01-04 01:05:04"
+    },
+    {
+        "colo": "HKG",
         "ip": "198.41.209.161",
         "latency": 125,
         "line": "CM",
@@ -30,74 +50,74 @@
         "time": "2026-01-03 23:17:23"
     },
     {
-        "colo": "HKG",
-        "ip": "198.41.208.216",
-        "latency": 125,
-        "line": "CM",
+        "colo": "SJC",
+        "ip": "104.19.235.240",
+        "latency": 130,
+        "line": "CT",
         "loss": 0,
-        "node": "CDCM",
-        "speed": 255,
-        "time": "2026-01-03 22:55:42"
-    },
-    {
-        "colo": "HKG",
-        "ip": "198.41.208.192",
-        "latency": 153,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 255,
-        "time": "2026-01-03 22:22:26"
+        "node": "QYZJBGP",
+        "speed": 300,
+        "time": "2026-01-04 04:05:07"
     },
     {
         "colo": "SJC",
-        "ip": "104.19.127.181",
-        "latency": 154,
+        "ip": "104.19.11.75",
+        "latency": 129,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
         "speed": 295,
-        "time": "2026-01-04 00:06:09"
+        "time": "2026-01-04 03:05:25"
     },
     {
-        "colo": "AMS",
-        "ip": "104.21.58.138",
-        "latency": 158,
+        "colo": "SJC",
+        "ip": "162.159.235.225",
+        "latency": 130,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 285,
+        "time": "2026-01-04 04:15:27"
+    },
+    {
+        "colo": "SJC",
+        "ip": "104.17.28.168",
+        "latency": 130,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 285,
+        "time": "2026-01-04 04:05:43"
+    },
+    {
+        "colo": "SJC",
+        "ip": "104.17.155.177",
+        "latency": 131,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
         "speed": 250,
-        "time": "2026-01-04 00:16:10"
+        "time": "2026-01-04 04:15:46"
     },
     {
-        "colo": "AMS",
-        "ip": "172.67.186.186",
-        "latency": 155,
-        "line": "CT",
+        "colo": "HKG",
+        "ip": "198.41.208.119",
+        "latency": 51,
+        "line": "CU",
         "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 250,
-        "time": "2026-01-04 00:15:50"
+        "node": "CDCM",
+        "speed": 270,
+        "time": "2026-01-04 03:12:20"
     },
     {
-        "colo": "LAX",
-        "ip": "104.18.120.108",
-        "latency": 155,
-        "line": "CT",
+        "colo": "HKG",
+        "ip": "198.41.208.208",
+        "latency": 108,
+        "line": "CU",
         "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 235,
-        "time": "2026-01-03 23:56:08"
-    },
-    {
-        "colo": "LAX",
-        "ip": "104.19.255.179",
-        "latency": 151,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 215,
-        "time": "2026-01-04 00:15:29"
+        "node": "CDCM",
+        "speed": 270,
+        "time": "2026-01-04 01:05:04"
     },
     {
         "colo": "HKG",
@@ -128,25 +148,5 @@
         "node": "CDCM",
         "speed": 255,
         "time": "2026-01-03 23:17:23"
-    },
-    {
-        "colo": "HKG",
-        "ip": "198.41.208.216",
-        "latency": 125,
-        "line": "CU",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 255,
-        "time": "2026-01-03 22:55:42"
-    },
-    {
-        "colo": "HKG",
-        "ip": "198.41.208.192",
-        "latency": 153,
-        "line": "CU",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 255,
-        "time": "2026-01-03 22:22:26"
     }
 ]
