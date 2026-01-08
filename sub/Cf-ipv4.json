@@ -1,23 +1,13 @@
 [
     {
-        "colo": "LAX",
-        "ip": "162.159.240.105",
-        "latency": 55,
+        "colo": "SEA",
+        "ip": "141.101.114.197",
+        "latency": 51,
         "line": "CM",
         "loss": 0,
         "node": "CDCM",
         "speed": 270,
-        "time": "2026-01-07 23:09:47"
-    },
-    {
-        "colo": "LAX",
-        "ip": "172.64.81.17",
-        "latency": 57,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 265,
-        "time": "2026-01-07 23:09:53"
+        "time": "2026-01-08 01:19:40"
     },
     {
         "colo": "LAX",
@@ -31,13 +21,23 @@
     },
     {
         "colo": "HKG",
-        "ip": "198.41.209.55",
-        "latency": 120,
+        "ip": "198.41.209.10",
+        "latency": 52,
         "line": "CM",
         "loss": 0,
         "node": "CDCM",
         "speed": 255,
-        "time": "2026-01-07 22:48:25"
+        "time": "2026-01-08 02:02:13"
+    },
+    {
+        "colo": "HKG",
+        "ip": "198.41.209.34",
+        "latency": 57,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 255,
+        "time": "2026-01-08 01:08:56"
     },
     {
         "colo": "HKG",
@@ -50,74 +50,64 @@
         "time": "2026-01-08 00:15:24"
     },
     {
-        "colo": "AMS",
-        "ip": "172.67.134.168",
-        "latency": 165,
+        "colo": "SIN",
+        "ip": "198.41.223.153",
+        "latency": 89,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 345,
-        "time": "2026-01-08 00:15:47"
-    },
-    {
-        "colo": "AMS",
-        "ip": "104.21.57.153",
-        "latency": 162,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 310,
-        "time": "2026-01-07 23:55:47"
+        "speed": 320,
+        "time": "2026-01-08 03:55:06"
     },
     {
         "colo": "SJC",
-        "ip": "104.18.65.55",
-        "latency": 161,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 285,
-        "time": "2026-01-08 00:06:10"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.18.10.162",
-        "latency": 150,
+        "ip": "104.18.93.237",
+        "latency": 129,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
         "speed": 280,
-        "time": "2026-01-08 00:25:46"
+        "time": "2026-01-08 03:55:26"
     },
     {
-        "colo": "SJC",
-        "ip": "104.19.39.78",
-        "latency": 141,
+        "colo": "SIN",
+        "ip": "198.41.211.75",
+        "latency": 80,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 255,
-        "time": "2026-01-08 00:15:27"
+        "speed": 280,
+        "time": "2026-01-08 03:15:06"
     },
     {
-        "colo": "LAX",
-        "ip": "162.159.240.105",
-        "latency": 55,
+        "colo": "SJC",
+        "ip": "104.17.68.243",
+        "latency": 132,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 280,
+        "time": "2026-01-08 02:55:47"
+    },
+    {
+        "colo": "SIN",
+        "ip": "162.159.36.194",
+        "latency": 76,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 250,
+        "time": "2026-01-08 03:35:06"
+    },
+    {
+        "colo": "SEA",
+        "ip": "141.101.114.197",
+        "latency": 51,
         "line": "CU",
         "loss": 0,
         "node": "CDCM",
         "speed": 270,
-        "time": "2026-01-07 23:09:47"
-    },
-    {
-        "colo": "LAX",
-        "ip": "172.64.81.17",
-        "latency": 57,
-        "line": "CU",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 265,
-        "time": "2026-01-07 23:09:53"
+        "time": "2026-01-08 01:19:40"
     },
     {
         "colo": "LAX",
@@ -131,13 +121,23 @@
     },
     {
         "colo": "HKG",
-        "ip": "198.41.209.55",
-        "latency": 120,
+        "ip": "198.41.209.10",
+        "latency": 52,
         "line": "CU",
         "loss": 0,
         "node": "CDCM",
         "speed": 255,
-        "time": "2026-01-07 22:48:25"
+        "time": "2026-01-08 02:02:13"
+    },
+    {
+        "colo": "HKG",
+        "ip": "198.41.209.34",
+        "latency": 57,
+        "line": "CU",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 255,
+        "time": "2026-01-08 01:08:56"
     },
     {
         "colo": "HKG",
