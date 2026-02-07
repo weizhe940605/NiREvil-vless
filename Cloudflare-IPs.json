@@ -1,16 +1,6 @@
 {
     "ipv4": [
         {
-            "colo": "LAX",
-            "ip": "162.159.240.102",
-            "latency": 53,
-            "line": "CM",
-            "loss": 0,
-            "node": "CDCM",
-            "speed": 305,
-            "time": "2026-02-06 07:30:45"
-        },
-        {
             "colo": "HKG",
             "ip": "198.41.208.218",
             "latency": 51,
@@ -19,6 +9,16 @@
             "node": "CDCM",
             "speed": 305,
             "time": "2026-02-06 09:31:02"
+        },
+        {
+            "colo": "LAX",
+            "ip": "162.159.240.102",
+            "latency": 53,
+            "line": "CM",
+            "loss": 0,
+            "node": "CDCM",
+            "speed": 305,
+            "time": "2026-02-06 07:30:45"
         },
         {
             "colo": "LAX",
@@ -52,63 +52,53 @@
         },
         {
             "colo": "SJC",
-            "ip": "104.18.138.105",
-            "latency": 134,
+            "ip": "104.16.134.31",
+            "latency": 147,
+            "line": "CT",
+            "loss": 0,
+            "node": "QYZJBGP",
+            "speed": 275,
+            "time": "2026-02-07 03:26:09"
+        },
+        {
+            "colo": "SJC",
+            "ip": "172.64.82.179",
+            "latency": 130,
+            "line": "CT",
+            "loss": 0,
+            "node": "QYZJBGP",
+            "speed": 275,
+            "time": "2026-02-07 04:15:07"
+        },
+        {
+            "colo": "SJC",
+            "ip": "104.19.68.157",
+            "latency": 131,
+            "line": "CT",
+            "loss": 0,
+            "node": "QYZJBGP",
+            "speed": 275,
+            "time": "2026-02-07 03:46:07"
+        },
+        {
+            "colo": "SJC",
+            "ip": "104.17.99.35",
+            "latency": 146,
+            "line": "CT",
+            "loss": 0,
+            "node": "QYZJBGP",
+            "speed": 255,
+            "time": "2026-02-07 04:15:45"
+        },
+        {
+            "colo": "SJC",
+            "ip": "104.19.1.116",
+            "latency": 132,
             "line": "CT",
             "loss": 0,
             "node": "QYZJBGP",
             "speed": 250,
-            "time": "2026-02-06 23:45:29"
-        },
-        {
-            "colo": "SJC",
-            "ip": "104.16.155.35",
-            "latency": 143,
-            "line": "CT",
-            "loss": 0,
-            "node": "QYZJBGP",
-            "speed": 220,
-            "time": "2026-02-07 00:25:31"
-        },
-        {
-            "colo": "SJC",
-            "ip": "104.17.94.62",
-            "latency": 144,
-            "line": "CT",
-            "loss": 0,
-            "node": "QYZJBGP",
-            "speed": 220,
-            "time": "2026-02-07 00:05:08"
-        },
-        {
-            "colo": "LAX",
-            "ip": "104.19.245.98",
-            "latency": 149,
-            "line": "CT",
-            "loss": 0,
-            "node": "QYZJBGP",
-            "speed": 220,
-            "time": "2026-02-06 23:25:07"
-        },
-        {
-            "colo": "SJC",
-            "ip": "104.16.135.91",
-            "latency": 134,
-            "line": "CT",
-            "loss": 0,
-            "node": "QYZJBGP",
-            "speed": 195,
-            "time": "2026-02-07 00:25:10"
-        },
-        {
-            "colo": "LAX",
-            "ip": "162.159.240.102",
-            "latency": 53,
-            "line": "CU",
-            "loss": 0,
-            "node": "CDCM",
-            "speed": 305,
-            "time": "2026-02-06 07:30:45"
+            "time": "2026-02-07 03:25:29"
         },
         {
             "colo": "HKG",
@@ -119,6 +109,16 @@
             "node": "CDCM",
             "speed": 305,
             "time": "2026-02-06 09:31:02"
+        },
+        {
+            "colo": "LAX",
+            "ip": "162.159.240.102",
+            "latency": 53,
+            "line": "CU",
+            "loss": 0,
+            "node": "CDCM",
+            "speed": 305,
+            "time": "2026-02-06 07:30:45"
         },
         {
             "colo": "LAX",
