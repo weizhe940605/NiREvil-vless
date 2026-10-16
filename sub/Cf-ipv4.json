@@ -1,103 +1,103 @@
 [
     {
         "colo": "Default",
-        "ip": "198.41.209.22",
-        "latency": 62,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 300,
-        "time": "2026-10-14 17:29:28"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.208.103",
-        "latency": 90,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 270,
-        "time": "2026-10-14 16:57:45"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.209.201",
-        "latency": 59,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 270,
-        "time": "2026-10-14 16:24:27"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.208.251",
-        "latency": 74,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 260,
-        "time": "2026-10-14 16:57:39"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.208.124",
+        "ip": "198.41.209.161",
         "latency": 53,
         "line": "CM",
         "loss": 0,
         "node": "CDCM",
-        "speed": 255,
-        "time": "2026-10-14 15:39:47"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.18.253.65",
-        "latency": 149,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
         "speed": 295,
-        "time": "2026-10-14 17:37:20"
+        "time": "2026-10-15 16:44:12"
     },
     {
         "colo": "Default",
-        "ip": "162.159.236.88",
-        "latency": 146,
-        "line": "CT",
+        "ip": "198.41.209.146",
+        "latency": 52,
+        "line": "CM",
         "loss": 0,
-        "node": "QYZJBGP",
+        "node": "CDCM",
         "speed": 295,
-        "time": "2026-10-14 16:56:52"
+        "time": "2026-10-15 16:33:22"
     },
     {
         "colo": "Default",
-        "ip": "104.16.84.177",
-        "latency": 154,
-        "line": "CT",
+        "ip": "198.41.209.235",
+        "latency": 52,
+        "line": "CM",
         "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 275,
-        "time": "2026-10-14 18:17:09"
+        "node": "CDCM",
+        "speed": 290,
+        "time": "2026-10-15 18:08:38"
     },
     {
         "colo": "Default",
-        "ip": "104.16.158.9",
-        "latency": 148,
-        "line": "CT",
+        "ip": "172.67.150.154",
+        "latency": 134,
+        "line": "CM",
         "loss": 0,
-        "node": "QYZJBGP",
+        "node": "CDCM",
         "speed": 270,
-        "time": "2026-10-14 17:17:10"
+        "time": "2026-10-15 15:48:45"
     },
     {
         "colo": "Default",
-        "ip": "104.19.49.18",
-        "latency": 145,
+        "ip": "198.41.208.119",
+        "latency": 50,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 255,
+        "time": "2026-10-15 15:59:26"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.16.127.255",
+        "latency": 139,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 250,
-        "time": "2026-10-14 17:56:35"
+        "speed": 295,
+        "time": "2026-10-15 17:36:54"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.16.131.239",
+        "latency": 140,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 295,
+        "time": "2026-10-15 16:56:35"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.16.253.178",
+        "latency": 138,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 255,
+        "time": "2026-10-15 17:16:34"
+    },
+    {
+        "colo": "Default",
+        "ip": "198.41.223.55",
+        "latency": 74,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 245,
+        "time": "2026-10-15 17:16:16"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.17.123.108",
+        "latency": 139,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 205,
+        "time": "2026-10-15 17:36:36"
     },
     {
         "colo": "NRT",
